@@ -70,7 +70,7 @@
         <g:if test="${projectKeyStorageEnabled}">
             {
                 type: 'link',
-                id: 'nav-project-settings-edit-nodes',
+                id: 'nav-project-settings-key-storage',
                 container: 'nav-project-settings',
                 group: 'main',
                 class: 'fas fa-key',
